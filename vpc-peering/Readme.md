@@ -1,4 +1,3 @@
-````md
 # 🔗 VPC Peering on AWS using Terraform
 
 ## 📌 Project Overview
@@ -64,7 +63,6 @@ vpc-peering-terraform/
 ├── providers.tf
 ├── variables.tf
 ├── outputs.tf
-├── terraform.tfvars
 ├── images/
 │   └── architecture.png
 ````
